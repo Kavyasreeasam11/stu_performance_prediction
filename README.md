@@ -17,7 +17,7 @@ Project Highlights
 - Visualized score distributions and model performance
 
 Dataset
-Real-world educational dataset with 6600+ records and 20 features
+- Real-world educational dataset with 6600+ records and 20 features
 
 Project Link
 This repository is part of my machine learning portfolio.
